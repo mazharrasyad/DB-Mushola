@@ -1,2 +1,2 @@
 # DB-Mushola
-Database di Peminjaman Prasarana Mushola
+Database Peminjaman Prasarana Mushola
